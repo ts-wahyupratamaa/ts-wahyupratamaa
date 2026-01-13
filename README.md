@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Wahyu Pratama
 
-**Software Engineer Lead @satutitik.engineer** · Ex-MSIB Mandiri · Ex-DBS Foundation · Ex-SIB 7 · Ex-Inbound  
+Software Engineer Lead @satutitik.engineer · Ex-MSIB Mandiri · Ex-DBS Foundation · Ex-SIB 7 · Ex-Inbound  
 AI & ML Builder · Automation Engineer (n8n) · Full-Stack & Mobile Engineer  
-📍 Indonesia · Pronouns: He/Him
+📍 Malang
 
 <p align="left">
   <a href="https://www.linkedin.com/in/wahyupratamaa" target="_blank">
@@ -20,30 +20,16 @@ AI & ML Builder · Automation Engineer (n8n) · Full-Stack & Mobile Engineer
 </p>
 
 ---
-![Snake animation](https://raw.githubusercontent.com/ts-wahyupratamaa/seniorssoftwareengineer/output/snake.svg)
-
 
 ## 🕹️ Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wayphantomme/wayphantomme/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wayphantomme/wayphantomme/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wayphantomme/wayphantomme/output/pacman-contribution-graph.svg">
-</picture>
-
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/output/pacman-contribution-graph.svg">
-</picture>
-<img src="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorssoftwareengineer/output/snake.svg" alt="Snake animation" />
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/refs/heads/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/refs/heads/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
 ## 🎯 My Focus Areas (Deep Expertise)
 
 ### 🎨 Front-End Engineering
