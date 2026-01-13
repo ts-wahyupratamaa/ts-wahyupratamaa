@@ -31,6 +31,12 @@ AI & ML Builder · Automation Engineer (n8n) · Full-Stack & Mobile Engineer
 </picture>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorssoftwareengineer/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorssoftwareengineer/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorssoftwareengineer/output/pacman-contribution-graph.svg">
+</picture>
+<img src="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorssoftwareengineer/output/snake.svg" alt="Snake animation" />
 
 ## 🎯 My Focus Areas (Deep Expertise)
 
