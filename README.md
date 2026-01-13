@@ -9,9 +9,6 @@
 <img src="https://raw.githubusercontent.com/ts-wahyupratamaa/ts-wahyupratamaa/output/snake.svg" alt="Snake animation" />
 
 ###
-![Snake animation](https://raw.githubusercontent.com/ts-wahyupratamaa/seniorssoftwareengineer/output/snake.svg)
-
-![Pacman contribution graph](https://raw.githubusercontent.com/ts-wahyupratamaa/seniorssoftwareengineer/output/pacman.svg)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
