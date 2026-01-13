@@ -6,9 +6,9 @@ AI & ML Builder · Automation Engineer (n8n) · Full-Stack & Mobile Engineer
 📍 Suhat, Malang
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/wahyupratamaa" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?color=0A66C2&label=LinkedIn%20Followers&query=%24.followers&url=https%3A%2F%2Flinkedin-followers-badge.vercel.app%2Fapi%2F%3Fusername%3Dwahyupratamaa&logo=linkedin&logoColor=white" />
-  </a>
+ <a href="https://www.linkedin.com/in/wahyupratamaa" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-wahyupratamaa-0A66C2?logo=linkedin&logoColor=white" />
+</a>
   <a href="https://github.com/ts-wahyupratamaa" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@whatyuupratama-181717?logo=github&logoColor=white" />
   </a>
