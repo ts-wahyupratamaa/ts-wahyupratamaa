@@ -20,6 +20,7 @@ AI & ML Builder · Automation Engineer (n8n) · Full-Stack & Mobile Engineer
 </p>
 
 ---
+<img src="https://raw.githubusercontent.com/ts-wahyupratamaa/ts-wahyupratamaa/output/snake.svg" alt="Snake animation" />
 
 ## 🕹️ Contribution Graph
 <picture>
