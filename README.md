@@ -1,73 +1,101 @@
-# 👋 Hi, I'm Wayan Phantom Megaditha
+# 👋 Hi, I'm Wahyu Pratama
 
-🎓 Digital Business & Computer Science | 📍 Institute of Technology and Business STIKOM Bali <br/>
-💻 Front-End Developer exploring the path to AI Engineering
+**Software Engineer Lead @satutitik.engineer** · Ex-MSIB Mandiri · Ex-DBS Foundation · Ex-SIB 7 · Ex-Inbound  
+AI Automation · Power Apps & SharePoint Developer  
+📍 Indonesia · Pronouns: He/Him
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/wahyupratamaa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Followers-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/wahyupratamaa" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?color=0A66C2&label=LinkedIn%20Followers&query=%24.followers&url=https%3A%2F%2Flinkedin-followers-badge.vercel.app%2Fapi%2F%3Fusername%3Dwahyupratamaa&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/whatyuupratama" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@whatyuupratama-181717?logo=github&logoColor=white" />
+  </a>
+  <a href="https://satutitik.engineer/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-satutitik.engineer-111111?logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/alvprma.2cn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@alvprma.2cn-E4405F?logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
-###
 
+## ⚡ Highlights
+- Built interactive web apps with **React / Next.js** with strong SDLC practice (Waterfall, V-Model, Agile) & testing mindset  
+- **Machine Learning track alumni** (DBS Foundation Coding Camp 2025): capstone **GigiSehat** (Random Forest + Flask + Next.js)  
+- Love building **automation pipelines** (n8n, Docker, webhook, ngrok) and business workflows  
+- Experience delivering internal tools using **Power Apps & SharePoint**
+
+---
+
+### 🕹️ Pacman Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wayphantomme/wayphantomme/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wayphantomme/wayphantomme/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wayphantomme/wayphantomme/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorssoftwareengineer/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorssoftwareengineer/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorssoftwareengineer/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
-## About Me
-
-I’m Wayan, a junior front-end developer passionate about crafting interactive and visually consistent web experiences. I enjoy working with React, Next.js, and Tailwind CSS to build responsive designs that feel smooth across devices. With a background in digital business and tech, I combine creativity and logic to deliver clean, maintainable code while continuously learning advanced patterns and design principles.
+## 🧠 About Me
+I’m a Software Engineer Lead who enjoys building products end-to-end: from crafting clean UI, designing flows, implementing reliable automation, until shipping and maintaining the system.  
+My current focus is **automation + AI**, especially building pragmatic solutions that help people work faster and smarter.
 
 ---
 
-## 🧠 My Focus Areas
+## 🎯 My Focus Areas
 
-### 🎨 Front-End Development
-- HTML, CSS, JavaScript
-- React & Next.js
-- Responsive, accessible UI/UX
+### 🌐 Web Engineering
+- React, Next.js, TypeScript
+- UI architecture, reusable components, responsive design
+- Testing mindset & SDLC (V-Model/Waterfall/Agile)
 
-### 🪙 Blockchain
-- Solidity & Smart Contracts
-- Web3.js / ethers.js
-- dApp development & NFT experiments
+### 🤖 AI & Automation
+- n8n workflow automation, webhooks, Docker, ngrok
+- ML basics, model integration to web products
+- Automation for internal ops & business processes
 
-### 🤖 AI & Machine Learning
-- Python for Data Science
-- Machine Learning & Deep Learning (TensorFlow, PyTorch)
-- Applied AI in Business & Web
+### 🧩 Microsoft Ecosystem
+- Power Apps
+- SharePoint
+- Low-code solutions for teams
+
+---
+
+## 📌 Featured Work
+- **GigiSehat** — Early cavity risk detection for kids (Random Forest + Flask + Next.js)  
+- **EduBooks** — Capstone full-stack platform + community features  
+- **Automation Experiments** — Telegram bot, webhook pipelines, Sheets integration
 
 ---
 
-## 📌 What You’ll Find in This Repo
-- 💻 Front-end projects with reusable components (Navbar, Footer, Card, Button, Toggle Menu, Slideshow)  
-- 📊 Dashboard interfaces with API integration, routing, and responsive mobile layouts  
-- 🧠 Code experiments, UI logic, and performance improvements in progress  
-- 🎯 Continuous learning on design systems and modern web frameworks
-
----
-###
-
-<h2 align="left">I code with</h2>
-
-###
+<h2 align="left">🧰 I code with</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
 </div>
 
-###
+---
+
+## 📫 Reach Me
+- LinkedIn: https://www.linkedin.com/in/wahyupratamaa  
+- GitHub: https://github.com/whatyuupratama  
+- Website: https://satutitik.engineer/  
+- Instagram: https://www.instagram.com/alvprma.2cn  
+- Medium: https://medium.com/@wahyupratama_
